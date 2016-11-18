@@ -1,0 +1,46 @@
+{
+    "author": "mvd369@gmail.com",
+    "dependencies": {},
+    "keywords": [],
+    "name": "ufp",
+    "pebble": {
+        "displayName": "United Federation of Planets",
+        "enableMultiJS": false,
+        "messageKeys": [],
+        "projectType": "native",
+        "resources": {
+            "media": [
+                {
+                    "file": "images/BTDisCover.png",
+                    "name": "BT_DISCON",
+                    "type": "bitmap"
+                },
+                {
+                    "file": "images/DN.png",
+                    "name": "BATTERY_OVERLAY",
+                    "type": "bitmap"
+                },
+                {
+                    "file": "images/Pebble BG.png",
+                    "menuIcon": true,
+                    "name": "MAIN_BACKGROUND",
+                    "type": "bitmap"
+                },
+                {
+                    "file": "fonts/Star Wreck.ttf",
+                    "name": "STAR_WRECK_42",
+                    "type": "font"
+                }
+            ]
+        },
+        "sdkVersion": "3",
+        "targetPlatforms": [
+            "aplite"
+        ],
+        "uuid": "3b67b9bb-9eca-44ce-b232-b4db47a01cb3",
+        "watchapp": {
+            "watchface": true
+        }
+    },
+    "version": "1.0.0"
+}
