@@ -22,7 +22,6 @@
                 },
                 {
                     "file": "images/Pebble BG.png",
-                    "menuIcon": true,
                     "name": "MAIN_BACKGROUND",
                     "type": "bitmap"
                 },
